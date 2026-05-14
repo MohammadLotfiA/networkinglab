@@ -80,7 +80,7 @@ const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
 
         <Card
           icon={<BookOpen className="w-10 h-10 text-white" />}
-          title="Networking Academy"
+          title="Networking Guide"
           description="Comprehensive guide for 2026 certification goals. From OSI basics to Packet Tracer labs."
           onClick={() => onNavigate('academy')}
           features={['Network+ / CCNA', 'Study Guides']}
