@@ -65,7 +65,7 @@ Curated articles and lab walkthroughs for:
 ## 👤 Author
 **Mohammad Lotfi Akbarabadi** (@MohammadLotfiA)  
 Passionate about making complex networking concepts accessible to everyone.  
-[Portfolio](https://mohammadlotfia.github.io/networkinglab/)
+[Portfolio](https://mohammadlotfi.com)
 
 ---
 
